@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vinit</h1>
-<h3 align="center">I'm an Electrical Engineering Senior at Indian Institute Of Technology.</h3>
+<h3 align="center">I'm an Electrical Engineering Senior at Indian Institute Of Technology, Bombay.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -67,12 +67,8 @@
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://www.linkedin.com/in/vinit-awale-aa5119192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/vinit.awale.54/"><img src="https://img.icons8.com/color/50/000000/facebook.png"/></a>
 </p>
 
 ## ❤ Views and Followers
