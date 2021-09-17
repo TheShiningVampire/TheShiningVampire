@@ -52,7 +52,7 @@
 - <img align="left" alt="PostgreSql" width="22px" src="https://img.icons8.com/color/2x/postgreesql.png" />  **PostgreSql** -->
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
-- <img align="left" alt="Pytorch" width="20px" src="https://www.pngkey.com/png/detail/380-3800394_pytorch-logo.png" /> **Pytorch**
+- <img align="left" alt="Pytorch" width="20px" src="https://www.pngkey.com/png/detail/380-3800394_pytorch-logo.png" /> **Pytorch**  
 - <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 <!-- - <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder** -->
