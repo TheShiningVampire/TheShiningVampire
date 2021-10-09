@@ -76,3 +76,6 @@
     <img src="https://komarev.com/ghpvc/?username=TheShiningVampire">
 </a>
 <a href="https://github.com/TheShiningVampire?tab=followers"><img src="https://img.shields.io/github/followers/TheShiningVampire?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+<a href="https://app.daily.dev/vinit_awale"><img src="https://api.daily.dev/devcards/90255afd59804901bcfec539f3f4d021.png?r=21z" width="400" alt="Vinit Awale's Dev Card"/></a>
