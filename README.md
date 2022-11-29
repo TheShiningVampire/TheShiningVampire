@@ -46,14 +46,14 @@
 - <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> **C++**
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="Octave" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
-- <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />  **HTML**
+<!-- - <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />  **HTML** -->
 <!-- - <img align="left" alt="HTML" width="22px" src="https://logo.letskhabar.com//img/?tool=css" />  **CSS**
 - <img align="left" alt="MySQL" width="22px" src="https://img.icons8.com/fluent/2x/mysql-logo.png" alt="mysql" />  **MySQL**
 - <img align="left" alt="SQL" width="22px" src="https://image.flaticon.com/icons/png/128/2772/2772128.png" />  **SQL**
 - <img align="left" alt="PostgreSql" width="22px" src="https://img.icons8.com/color/2x/postgreesql.png" />  **PostgreSql** -->
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
-- <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
-- <img align="left" alt="TensorFlow" width="22px" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> **TensorFlow**
+<!-- - <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab** -->
+<!-- - <img align="left" alt="TensorFlow" width="22px" src="https://img.icons8.com/color/48/000000/tensorflow.png" /> **TensorFlow** -->
 - <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 <!-- - <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder** -->
