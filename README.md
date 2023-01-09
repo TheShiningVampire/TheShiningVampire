@@ -62,7 +62,7 @@
 <!-- - <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R** -->
 <!-- - <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX** -->
 <!-- - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio Code** -->
-<!-- - <img align="left" alt="Pytorch" width="20px" src="https://www.pngkey.com/png/detail/380-3800394_pytorch-logo.png"/> **Pytorch**     --> -->
+<!-- - <img align="left" alt="Pytorch" width="20px" src="https://www.pngkey.com/png/detail/380-3800394_pytorch-logo.png"/> **Pytorch**     --> 
 
 
 
