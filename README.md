@@ -33,7 +33,7 @@
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="48px" alt="PyTorch" title="PyTorch"/>  
-    <img src="https://phlippe.github.io/post/uvadlc-tutorials-lightning/featured.png" width="48px" alt="PyTorch-Lightning" title="PyTorch-Lightning"/>  
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIw_VKNCk3-fKjROz5mqQarrqfC1toSpb2FPw_ecGhNiMlFoZlSwx1ZSd0-4hwxxATM-A&usqp=CAU" width="48px" alt="PyTorch-Lightning" title="PyTorch-Lightning"/>  
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" width="48px" alt="Linux" title="Linux"/>  
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>  
