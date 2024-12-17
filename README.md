@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vinit</h1>
-<h3 align="center">IIT Bombay Electrical Engineering Alumni | Robotics & AI Researcher | Deep Learning Enthusiast</h3>
+<h3 align="center">IIT Bombay Electrical Engineering Alumni | Robotics & AI Researcher | Experienced in Building Intelligent Vision Systems</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -18,12 +18,6 @@
 
 ---
 
-<p align="center">
-    <a href="https://github.com/TheShiningVampire/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheShiningVampire&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My GitHub Stats
 <p align="center">
   <br/>
@@ -39,15 +33,14 @@
 
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>  
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="48px" alt="PyTorch" title="PyTorch"/>  
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>  
-    <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux" title="Linux"/>  
-    <img src="https://img.icons8.com/fluency/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>  
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/>  
-    <img src="https://img.icons8.com/material-outlined/48/000000/git.png" alt="Git" title="Git"/>  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ROS_logo.svg/64px-ROS_logo.svg.png" width="48px" alt="ROS" title="ROS"/>  
-    <img src="https://avatars.githubusercontent.com/u/2769516?s=200&v=4" width="48px" alt="Isaac Sim" title="Isaac Sim"/>  
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" title="PyTorch"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" width="48px" alt="Linux" title="Linux"/>  
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="48px" alt="Git" title="Git"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="144px" alt="ROS" title="ROS"/>  
+    <img src="https://avatars.githubusercontent.com/u/157846462?v=4" width="48px" alt="Isaac Sim" title="Isaac Sim"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="48px" alt="TensorFlow" title="TensorFlow"/>  
 </p>
 
 ---
