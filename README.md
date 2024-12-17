@@ -37,17 +37,17 @@
 
 ## 🚀 Languages and Tools:
 
-<p>
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> **Python**
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> **C++**
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/> **Docker**
-    <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/> **Linux**
-    <img src="https://img.icons8.com/fluency/48/000000/tensorflow.png"/> **TensorFlow**
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> **GitHub**
-    <img src="https://img.icons8.com/material-outlined/48/000000/git.png"/> **Git**
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ROS_logo.svg/64px-ROS_logo.svg.png"/> **ROS**
-    <img src="https://avatars.githubusercontent.com/u/2769516?s=200&v=4"/> **Isaac Sim**
-    <img src="https://img.icons8.com/color/48/000000/pytorch.png"/> **PyTorch**
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>  
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>  
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>  
+    <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux" title="Linux"/>  
+    <img src="https://img.icons8.com/fluency/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow"/>  
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/>  
+    <img src="https://img.icons8.com/material-outlined/48/000000/git.png" alt="Git" title="Git"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ROS_logo.svg/64px-ROS_logo.svg.png" width="48px" alt="ROS" title="ROS"/>  
+    <img src="https://avatars.githubusercontent.com/u/2769516?s=200&v=4" width="48px" alt="Isaac Sim" title="Isaac Sim"/>  
+    <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" title="PyTorch"/>  
 </p>
 
 ---
