@@ -30,10 +30,10 @@
 ---
 
 ## 🚀 Languages and Tools:
-
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="48px" alt="PyTorch" title="PyTorch"/>  
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fja.m.wikipedia.org%2Fwiki%2F%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%3APyTorch_Lightning_Logo.png&psig=AOvVaw0QqepJF5bTKBrBlNZ7X7rG&ust=1734541104198000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjkgKejr4oDFQAAAAAdAAAAABAJ)" width="48px" alt="PyTorch-Lightning" title="PyTorch-Lightning"/>  
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/2048px-Icons8_flat_linux.svg.png" width="48px" alt="Linux" title="Linux"/>  
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>  
