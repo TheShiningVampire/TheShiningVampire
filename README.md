@@ -48,9 +48,17 @@
 ## Connect with Me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/vinit-awale-aa5119192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/vinit.awale.54/"><img src="https://img.icons8.com/color/50/000000/facebook.png"/></a>
+    <a href="https://www.linkedin.com/in/vinit-awale-aa5119192/">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+    </a>
+    <a href="https://www.facebook.com/vinit.awale.54/">
+        <img src="https://img.icons8.com/color/50/000000/facebook.png" alt="Facebook" title="Facebook"/>
+    </a>
+    <a href="mailto:awale.vinit@gmail.com">
+        <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email" title="Email"/>
+    </a>
 </p>
+
 
 ---
 
