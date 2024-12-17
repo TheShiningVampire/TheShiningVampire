@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vinit</h1>
-<h3 align="center">IIT Bombay Electrical Engineering Alumni | Robotics & AI Researcher | Experienced in Building Intelligent Vision Systems</h3>
+<h3 align="center">Honda R&D | IIT Bombay | Robot Vision Researcher</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -48,8 +48,8 @@
 ## Connect with Me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vinit-awale-aa5119192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://github.com/TheShiningVampire"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/></a>
+<a href = "https://www.linkedin.com/in/vinit-awale-aa5119192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.facebook.com/vinit.awale.54/"><img src="https://img.icons8.com/color/50/000000/facebook.png"/></a>
 </p>
 
 ---
