@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🤖 **Robotics Vision Researcher** at **Honda R&D**, working on problems like:
+- 🤖 **Robotics Learning Researcher** at **Honda R&D**, working on problems like:
     - **6D Pose Estimation**, **Segmentation**, **Depth Estimation**, **Model Optimization**  
 
 - 🎓 **IIT Bombay Alumni** with a Dual Degree (B.Tech + M.Tech) in Electrical Engineering specialized in **Signal Processing**
