@@ -48,7 +48,7 @@
 ## Connect with Me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/vinit-awale-aa5119192/">
+    <a href="https://www.linkedin.com/in/vinitawale">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
     </a>
     <a href="https://www.facebook.com/vinit.awale.54/">
