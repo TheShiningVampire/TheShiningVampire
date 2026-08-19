@@ -10,7 +10,7 @@
   - Visuo-tactile perception, Dexterous manipulation, 6D pose estimation
   - VLA policies (SmolVLA, GR00T N1.5) benchmarked against ACT & Diffusion Policy on real hardware
 - 🎓 IIT Bombay alumnus with a Dual Degree (B.Tech + M.Tech) in Electrical Engineering, specialized in Signal Processing
-- 🧠 Interested in embodied AI, whole-body & dexterous manipulation, multimodal perception (vision + tactile), & imitation learning
+- 🧠 Interested in embodied AI, whole-body & dexterous manipulation, multimodal perception (vision + tactile) & imitation learning
 - 🛠️ Building smarter robots that learn, adapt, and deliver impact in the real world.
 
 ---
@@ -21,7 +21,7 @@
     <a href="https://github.com/TheShiningVampire/github-readme-stats"><img alt="Vinit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheShiningVampire&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/TheShiningVampire/github-readme-stats"><img alt="Vinit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiningVampire&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 </p>
 
 ---
