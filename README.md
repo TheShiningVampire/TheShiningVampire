@@ -24,12 +24,8 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img alt="Vinit's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheShiningVampire&theme=github_dark"/>
   </a>
-  <br/>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img alt="Vinit's Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheShiningVampire&theme=github_dark"/>
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img alt="Vinit's Most Committed Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheShiningVampire&theme=github_dark"/>
   </a>
 </p>
 
