@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 MS in Robotics (MSR) student at **Carnegie Mellon University**, The Robotics Institute
-- 🤖 Previously Robot Learning Researcher at **Honda R&D (Frontier Robotics)**, Tokyo where I worked on:
+- 🤖 Previously Robot Learning Researcher at **Honda R&D (Frontier Robotics)** Tokyo, where I worked on:
   - Visuo-tactile perception, Dexterous manipulation, 6D pose estimation
   - VLA policies (SmolVLA, GR00T N1.5) benchmarked against ACT & Diffusion Policy on real hardware
 - 🎓 IIT Bombay alumnus with a Dual Degree (B.Tech + M.Tech) in Electrical Engineering, specialized in Signal Processing
