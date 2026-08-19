@@ -10,7 +10,7 @@
   - Visuo-tactile perception, Dexterous manipulation, 6D pose estimation
   - VLA policies (SmolVLA, GR00T N1.5) benchmarked against ACT & Diffusion Policy on real hardware
 - 🎓 IIT Bombay alumnus with a Dual Degree (B.Tech + M.Tech) in Electrical Engineering, specialized in Signal Processing
-- 🧠 Interested in embodied AI, whole-body & dexterous manipulation, multimodal perception (vision + tactile), and imitation learning
+- 🧠 Interested in embodied AI, whole-body & dexterous manipulation, multimodal perception (vision + tactile), & imitation learning
 - 🛠️ Building smarter robots that learn, adapt, and deliver impact in the real world.
 
 ---
