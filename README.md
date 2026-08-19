@@ -5,16 +5,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🤖 **Robotics Learning Researcher** at **Honda R&D**, working on problems like:
-    - **6D Pose Estimation**, **Segmentation**, **Depth Estimation**, **Model Optimization**  
-
-- 🎓 **IIT Bombay Alumni** with a Dual Degree (B.Tech + M.Tech) in Electrical Engineering specialized in **Signal Processing**
-
-- 🚀 Focused on bridging the gap between **research and real-world applications** in robotics, computer vision, and AI.  
-
-- 🧠 Interested in **AI with Limited Supervision**, **Reinforcement Learning**, and **Model Optimization**.  
-
-- 🛠️ Building smarter robots and tools that **learn, adapt**, and **deliver impact** in the real world.  
+- 🎓 MS in Robotics (MSR) student at **Carnegie Mellon University**, The Robotics Institute
+- 🤖 Previously Robot Learning Researcher at **Honda R&D (Frontier Robotics)**, Tokyo where I worked on:
+  - Visuo-tactile perception, Dexterous manipulation, 6D pose estimation
+  - VLA policies (SmolVLA, GR00T N1.5) benchmarked against ACT & Diffusion Policy on real hardware
+- 🎓 IIT Bombay alumnus with a Dual Degree (B.Tech + M.Tech) in Electrical Engineering, specialized in Signal Processing
+- 🧠 Interested in embodied AI, whole-body & dexterous manipulation, multimodal perception (vision + tactile), and imitation learning
+- 🛠️ Building smarter robots that learn, adapt, and deliver impact in the real world.
 
 ---
 
