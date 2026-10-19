@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 # Verify the paper-video toolchain. Prints the python to use on the last line.
-PY="${PAPER_VIDEO_PY:-$HOME/miniconda3/envs/paper-video/bin/python}"
+PY="${PAPER_VIDEO_PY:-}"
+if [ -z "$PY" ]; then
+  PY="$HOME/miniconda3/envs/paper-video/bin/python"
+  for b in miniconda3 miniforge3 mambaforge anaconda3; do
+    [ -x "$HOME/$b/envs/paper-video/bin/python" ] && { PY="$HOME/$b/envs/paper-video/bin/python"; break; }
+  done
+fi
 ok=1
 for b in ffmpeg ffprobe pdftoppm latex dvisvgm; do
   command -v "$b" >/dev/null || { echo "MISSING: $b"; ok=0; }
