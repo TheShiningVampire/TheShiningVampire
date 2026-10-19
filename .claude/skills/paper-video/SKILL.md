@@ -15,7 +15,7 @@ Produces a 6–10 min Manim video (Manim is the library behind 3Blue1Brown's vid
 ## Phases
 
 ### 0. Environment (once per machine)
-`bash SK/scripts/check_env.sh`. If it fails, show the user its setup block and stop. The last line gives `PY` (the Python with manim; default `~/miniconda3/envs/paper-video/bin/python`).
+`bash SK/scripts/check_env.sh`. If it fails, run `bash SK/scripts/setup_env.sh` (installs everything on Debian/Ubuntu), then check again; if it still fails, show the user the setup block and stop. The last line gives `PY` (the Python with manim; default `~/miniconda3/envs/paper-video/bin/python`).
 
 ### 1. Resolve and ingest
 The library lives at `ROOT = ~/my_things/paper-videos` (layout under **Library** below). Every paper is matched to its Zotero item; Zotero is the catalogue.
